@@ -1,1 +1,333 @@
 
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Formulaire de participation au FISU World University Championship Padel 2026.">
+
+    <title>Inscriptions | Padel 2026</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+    <div class="logo">
+        WORLD UNIVERSITY PADEL <span>2026</span>
+    </div>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="evenement.html">Le championnat</a></li>
+            <li><a href="programme.html">Programme</a></li>
+            <li><a href="infos-pratiques.html">Informations pratiques</a></li>
+            <li><a href="inscriptions.html" class="active">Inscriptions</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+<main>
+
+    <section class="page-banner">
+
+        <p class="subtitle">REJOIGNEZ LA COMPÉTITION</p>
+
+        <h1>INSCRIPTIONS</h1>
+
+        <p>
+            Préparez votre participation au championnat
+            universitaire mondial de padel 2026.
+        </p>
+
+    </section>
+
+
+    <section class="content-section">
+
+        <h2>Participer au championnat</h2>
+
+        <p>
+            Vous souhaitez participer au FISU World University
+            Championship Padel 2026 ?
+
+            Retrouvez ici un formulaire de préinscription permettant
+            de renseigner les principales informations relatives
+            à votre profil et à votre université.
+        </p>
+
+        <p>
+            Les modalités officielles de participation et les
+            conditions d'éligibilité sont à confirmer auprès
+            de l'organisation.
+        </p>
+
+    </section>
+
+
+    <section class="registration-section">
+
+        <div class="registration-intro">
+
+            <h2>Formulaire de préinscription</h2>
+
+            <p>
+                Merci de compléter les champs suivants.
+                Les informations marquées d'un astérisque
+                sont obligatoires.
+            </p>
+
+        </div>
+
+
+        <form action="#" method="post">
+
+            <fieldset>
+
+                <legend>1. Informations personnelles</legend>
+
+                <div class="form-group">
+
+                    <label for="nom">Nom *</label>
+
+                    <input
+                        type="text"
+                        id="nom"
+                        name="nom"
+                        placeholder="Votre nom"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="prenom">Prénom *</label>
+
+                    <input
+                        type="text"
+                        id="prenom"
+                        name="prenom"
+                        placeholder="Votre prénom"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="email">Adresse e-mail *</label>
+
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="exemple@email.com"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="telephone">Téléphone</label>
+
+                    <input
+                        type="tel"
+                        id="telephone"
+                        name="telephone"
+                        placeholder="+33 ..."
+                    >
+
+                </div>
+
+            </fieldset>
+
+
+            <fieldset>
+
+                <legend>2. Informations universitaires</legend>
+
+                <div class="form-group">
+
+                    <label for="universite">Université représentée *</label>
+
+                    <input
+                        type="text"
+                        id="universite"
+                        name="universite"
+                        placeholder="Nom de votre université"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="pays">Pays *</label>
+
+                    <input
+                        type="text"
+                        id="pays"
+                        name="pays"
+                        placeholder="Votre pays"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="statut">Votre statut *</label>
+
+                    <select id="statut" name="statut" required>
+
+                        <option value="">Sélectionnez votre profil</option>
+
+                        <option value="etudiant-athlete">
+                            Étudiant-athlète
+                        </option>
+
+                        <option value="encadrant">
+                            Encadrant / entraîneur
+                        </option>
+
+                        <option value="delegation">
+                            Membre d'une délégation
+                        </option>
+
+                        <option value="benevole">
+                            Bénévole
+                        </option>
+
+                        <option value="autre">
+                            Autre
+                        </option>
+
+                    </select>
+
+                </div>
+
+            </fieldset>
+
+
+            <fieldset>
+
+                <legend>3. Informations sportives</legend>
+
+                <div class="form-group">
+
+                    <label for="categorie">Catégorie de participation</label>
+
+                    <select id="categorie" name="categorie">
+
+                        <option value="">Sélectionnez une catégorie</option>
+
+                        <option value="hommes">Tableau masculin</option>
+
+                        <option value="femmes">Tableau féminin</option>
+
+                        <option value="autre">Autre / À préciser</option>
+
+                    </select>
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="message">Informations complémentaires</label>
+
+                    <textarea
+                        id="message"
+                        name="message"
+                        rows="5"
+                        placeholder="Précisez vos éventuelles questions ou demandes..."
+                    ></textarea>
+
+                </div>
+
+            </fieldset>
+
+
+            <div class="form-consent">
+
+                <label>
+
+                    <input
+                        type="checkbox"
+                        name="consentement"
+                        required
+                    >
+
+                    Je confirme l'exactitude des informations
+                    renseignées. *
+
+                </label>
+
+            </div>
+
+
+            <button type="submit" class="btn">
+                Envoyer ma préinscription
+            </button>
+
+            <p class="form-note">
+                * Champs obligatoires.
+            </p>
+
+        </form>
+
+        <p class="form-warning">
+            Attention : ce formulaire est une démonstration
+            réalisée dans le cadre d'un projet universitaire.
+            Il ne transmet pas réellement les données à
+            l'organisation du championnat.
+        </p>
+
+    </section>
+
+
+    <section class="discover">
+
+        <h2>Besoin de plus d'informations ?</h2>
+
+        <p>
+            Consultez les informations pratiques pour préparer
+            votre venue à Málaga.
+        </p>
+
+        <a href="infos-pratiques.html" class="btn">
+            Préparer ma venue
+        </a>
+
+    </section>
+
+</main>
+
+
+<footer>
+
+    <p>© 2026 – FISU World University Championship Padel</p>
+
+    <p>
+        Projet réalisé dans le cadre du Master 2 –
+        Université Paris Nanterre
+    </p>
+
+</footer>
+
+</body>
+</html>
+
