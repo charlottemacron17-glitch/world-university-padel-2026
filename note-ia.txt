@@ -1,1 +1,42 @@
 
+NOTE EXPLICATIVE – UTILISATION DE L'INTELLIGENCE ARTIFICIELLE
+
+Projet : Site web du FISU World University Championship Padel 2026
+Formation : Master 2 – Événementiel des loisirs sportifs
+Université : Paris Nanterre
+
+1. OBJECTIF DU PROJET
+
+Ce site internet a été réalisé dans le cadre d'un cours de communication digitale. Il a pour objectif de présenter le FISU World University Championship Padel 2026, événement sportif universitaire international organisé à Málaga.
+
+2. UTILISATION DE L'INTELLIGENCE ARTIFICIELLE
+
+L'intelligence artificielle a été utilisée comme outil d'accompagnement dans la conception du site web.
+
+Elle a notamment contribué :
+- À la structuration et à l'organisation des différentes pages.
+- À la rédaction et à l'amélioration de certains contenus.
+- À la génération et à l'adaptation du code HTML et CSS.
+- À la réflexion sur l'identité visuelle et l'expérience utilisateur.
+- À l'accompagnement technique dans l'utilisation de GitHub.
+
+3. TRAVAIL PERSONNEL
+
+Le projet repose également sur un travail personnel de recherche, de sélection et d'adaptation des contenus.
+
+Mon expérience de stage au sein du complexe sportif de l'Université de Málaga, dans le cadre du FISU World University Championship Padel, constitue une base importante pour la conception de ce site.
+
+Cette expérience m'a permis de mieux comprendre l'organisation d'un événement sportif international, notamment l'accueil des délégations, la gestion des accréditations, la coordination logistique et l'accompagnement des participants.
+
+4. VÉRIFICATION DES INFORMATIONS
+
+Les informations présentées ont vocation à être vérifiées et complétées à partir des données officielles de l'événement.
+
+Les éléments non confirmés sont volontairement signalés comme restant à compléter.
+
+5. BILAN
+
+L'utilisation de l'intelligence artificielle a permis de faciliter la réalisation technique du projet et de développer mes compétences en communication digitale, conception web et utilisation des outils numériques.
+
+L'IA constitue ici un outil d'aide à la réalisation, tandis que les choix éditoriaux et l'adaptation du projet s'appuient sur mon expérience personnelle et mon parcours universitaire.
+
